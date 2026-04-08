@@ -1,6 +1,6 @@
 cask "crest" do
   version "0.0.1"
-  sha256 "2e74da5ec78ac28d48005fdf414befe0182481c3c804973d4b88b20eb9f4aa4f"
+  sha256 "ba24a8ac67a784c741dc16558d206fb72ea98af41da5cfff81559a4125d69835"
 
   url "https://github.com/itsrafsanjani/crest/releases/download/v#{version}/Crest-#{version}.dmg"
   name "Crest"
